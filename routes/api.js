@@ -11,6 +11,7 @@ var uploaderarray = multer({dest: './tmp'});
 router.get('/user',user_api.listUser);
 router.get('/user/login',user_api.loginApp);
 router.post('/user/register',user_api.register);
+//////git addd
 
 
 router.get('/comic',comic_api.listComic);
