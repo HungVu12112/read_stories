@@ -14,6 +14,8 @@ router.post('/user/register',user_api.register);
 //////git addd
 /////nhan dduwocj chuaiw 
 
+////ok a
+
 
 
 router.get('/comic',comic_api.listComic);
