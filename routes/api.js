@@ -12,6 +12,8 @@ router.get('/user',user_api.listUser);
 router.get('/user/login',user_api.loginApp);
 router.post('/user/register',user_api.register);
 //////git addd
+/////nhan dduwocj chuaiw 
+
 
 
 router.get('/comic',comic_api.listComic);
